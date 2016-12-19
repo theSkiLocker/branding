@@ -1,12 +1,12 @@
 
 <div class="brand-color">
-  <div class="brand-color__item box-0"></div>
   <div class="brand-color__item box-1"></div>
   <div class="brand-color__item box-2"></div>
   <div class="brand-color__item box-4"></div>
   <div class="brand-color__item box-5"></div>
   <div class="brand-color__item box-6"></div>
   <div class="brand-color__item box-7"></div>
+  <div class="brand-color__item box-8"></div>
 </div>
 
 
