@@ -72,3 +72,11 @@ $list: $blue_dark $blue_light $purple_dark $purple_light $green_light $green_dar
     background: $color;
   }
 }
+
+.text-center { text-align: center; }
+.row {
+  display: flex;
+}
+.col {
+  flex-grow: 1;
+}

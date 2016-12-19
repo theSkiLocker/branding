@@ -23,8 +23,15 @@
 
 ## Logos
 
-![Logo](/images/logo-128.png "Logo")
-[Logo png](/images/logo.png)
-
-![Badge](/images/co-128.png "Badge")
-[Badge png](/images/logo.png)
+<div class="row text-center">
+  <div class="col">
+    ![Logo](/images/logo-128.png "Logo")
+    <br />
+    [Logo png](/images/logo.png)
+  </div>
+  <div class="col">
+    ![Badge](/images/co-128.png "Badge")
+    <br />
+    [Badge png](/images/logo.png)
+  </div>
+</div>
