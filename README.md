@@ -32,6 +32,6 @@
   <div class="col">
     <img src="/images/co-128.png" alt="Badge">
     <br>
-    <a href="/images/logo.png">Badge png</a>
+    <a href="/images/co.png">Badge png</a>
   </div>
 </div>
