@@ -1,3 +1,14 @@
+
+<div class="brand-color">
+  <div class="brand-color__item box-1">
+    Color 1
+  </div>
+  <div class="brand-color__item box-2">
+    Color 2
+  </div>
+</div>
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/theSkiLocker/branding/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
