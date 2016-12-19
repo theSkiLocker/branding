@@ -85,10 +85,7 @@ $list: $blue_dark $blue_light $purple_dark $purple_light $green_light $green_dar
   }
 }
 
-.text-center { text-align: center; }
+.text-center { text-align: center; justify-content: center; }
 .row {
   display: flex;
-}
-.col {
-  flex-grow: 1;
 }
