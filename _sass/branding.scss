@@ -1,36 +1,3 @@
-$b1: #007dbd;
-$b2: #b9e5fb;
-$p1: #93268f;
-$p2: #a962a7;
-$g1: #53b698;
-$g2: #5c7b80;
-$o1: #e28b50;
-$o2: #d29871;
-
-
-.brand-color {
-  float: left;
-  font-size: 14px;
+body {
+  color: blue;
 }
-
-.brand-color__item {
-  width: 100px;
-  height: 100px;
-  line-height: 100px;
-  text-align: center;
-  border-radius: 3px;
-  margin: 0 10px 10px 0;
-  color: #fff;
-  text-shadow: 0 0 1px rgba(0,0,0,.2);
-
-  &:nth-of-type(2n + 1) {
-    clear: left;
-  }
-}
-
-$list: #007dbd #b9e5fb #93268f #a962a7 #53b698 #5c7b80 #e28b50 #d29871
-
-@color $color in $list
-  $i: index($list, $color);
-  .box-#{$i}
-    background: #{$color}
