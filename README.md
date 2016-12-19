@@ -25,13 +25,13 @@
 
 <div class="row text-center">
   <div class="col">
-    ![Logo](/images/logo-128.png "Logo")
-    <br />
-    [Logo png](/images/logo.png)
+    <img src="/images/logo-128.png" alt="Logo">
+    <br>
+    <a href="/images/logo.png">Logo png</a>
   </div>
   <div class="col">
-    ![Badge](/images/co-128.png "Badge")
-    <br />
-    [Badge png](/images/logo.png)
+    <img src="/images/co-128.png" alt="Badge">
+    <br>
+    <a href="/images/logo.png">Badge png</a>
   </div>
 </div>
