@@ -2,7 +2,7 @@
 
 ## Colors
 
-<div class="clearfix">
+<div class="clearfix brand">
   <div class="brand-color">
     <div class="brand-color__item box-1">#007dbd</div>
     <div class="brand-color__item box-2">#b9e5fb</div>

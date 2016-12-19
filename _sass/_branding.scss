@@ -23,10 +23,15 @@ a {
   }
 }
 
+h2 {
+  font-size: 30px;
+  margin: 0 0 30px;
+}
+
 .project-name {
   background: $blue_dark;
   color: #fff;
-  margin: 0 0 30px;
+  margin: 0 0 50px;
   padding: 40px;
   text-align: center;
   font-weight: normal;
@@ -35,14 +40,21 @@ a {
 .main-content {
   margin: 0 auto;
   max-width: 900px;
+  text-align: center;
 }
 
 .site-footer {
-  padding: 20px;
+  padding: 50px 20px;
   text-align: center;
 }
 
 .clearfix:after { content:" "; display:table; clear:both; }
+
+.brand {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 50px;
+}
 
 .brand-color {
   float: left;
