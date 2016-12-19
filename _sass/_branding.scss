@@ -1,3 +1,35 @@
+
+$blue_dark: #007dbd;
+$blue_light: #b9e5fb;
+$purple_dark: #93268f;
+$purple_light: #a962a7;
+$green_light: #53b698;
+$green_dark: #5c7b80;
+$orange_dark: #e28b50;
+$orange_light: #d29871;
+
+
+body {
+  margin: 0;
+  font-family: sans-serif;
+  color: #333;
+}
+
+.project-name {
+  background: $blue_dark;
+  color: #fff;
+  margin: 0 0 30px;
+  padding: 40px;
+  text-align: center;
+}
+
+.main-content {
+  margin: 0 auto;
+  max-width: 900px;
+}
+
+.clearfix:after { content:" "; display:table; clear:both; }
+
 .brand-color {
   float: left;
   font-size: 14px;
@@ -18,7 +50,7 @@
   }
 }
 
-$list: #007dbd #b9e5fb #93268f #a962a7 #53b698 #5c7b80 #e28b50 #d29871;
+$list: $blue_dark $blue_light $purple_dark $purple_light $green_light $green_dark $orange_dark $orange_light;
 
 @each $color in $list {
   $i: index($list, $color);
