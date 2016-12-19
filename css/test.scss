@@ -3,8 +3,9 @@
 # only Main files contain this front matter, not partials.
 ---
 
-@import "branding"
+@import "branding";
 
-body {
+
+.box-1 {
   background: #fee;
 }
