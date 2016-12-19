@@ -22,6 +22,7 @@ $list: #007dbd #b9e5fb #93268f #a962a7 #53b698 #5c7b80 #e28b50 #d29871;
 
 @each $color in $list {
   $i: index($list, $color);
-  .box-#{$i}
-    background: #{$color}
+  .box-#{$i} {
+    background: $color;
+  }
 }
