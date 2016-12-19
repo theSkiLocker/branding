@@ -22,3 +22,9 @@
 </div>
 
 ## Logos
+
+![Logo](/images/logo-128.png "Logo")
+[Logo png](/images/logo.png)
+
+![Badge](/images/co-128.png "Badge")
+[Badge png](/images/logo.png)

@@ -15,6 +15,14 @@ body {
   color: #333;
 }
 
+a {
+  color: $blue_dark;
+  text-decoration: none;
+  &:hover {
+    color: $purple_dark;
+  }
+}
+
 .project-name {
   background: $blue_dark;
   color: #fff;
@@ -27,6 +35,11 @@ body {
 .main-content {
   margin: 0 auto;
   max-width: 900px;
+}
+
+.site-footer {
+  padding: 20px;
+  text-align: center;
 }
 
 .clearfix:after { content:" "; display:table; clear:both; }
